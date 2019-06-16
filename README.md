@@ -6,4 +6,4 @@ Created by:
 - Fredrik Forsell (The parallell version)
 
 Documentation:
-- [Wiki page for documentation (without pictures)](https://github.com/fredrifo/CvTree_Parallell/wiki)
+- [Documentation (with pictures)](https://github.com/fredrifo/PDF_Documentation/blob/master/CvTreeParallel/Documentation/Parallelization_CvTree.pdf)
